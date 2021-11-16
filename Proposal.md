@@ -17,9 +17,7 @@ Data includes:
   
 
 
-## Goal:
 
-•Analyzing Trump Speech
 
 ## Citation:
 Amazon Fine Food Reviews | Kaggle 
